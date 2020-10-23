@@ -7,7 +7,7 @@ Some parts, like pronounciation, might be tied to Dutch rather than English. The
 ## Anki
 
 I use Anki to assist me to retain words I learn. I highly recommend this too to everyone!  
-https://apps.ankiweb.net/  
+[Get it here!](https://apps.ankiweb.net/  )
 
 As a general rule of thumb, my Anki cards have the following fields:
 
