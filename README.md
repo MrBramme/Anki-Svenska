@@ -1,8 +1,13 @@
-# Anki-Svenska
+# Learning-Svenska
 
-Resources to learn Swedish using Anki
+Resources to learn Swedish
 
 Some parts, like pronounciation, might be tied to Dutch rather than English. The main resources, should, still be usefull for whomever needs them. I highly recommend making them yourself though, as typing the words in for yourself will most likely help you retain them in the first place!
+
+## Anki
+
+I use Anki to assist me to retain words I learn. I highly recommend this too to everyone!  
+https://apps.ankiweb.net/  
 
 As a general rule of thumb, my Anki cards have the following fields:
 
@@ -14,4 +19,10 @@ As a general rule of thumb, my Anki cards have the following fields:
 
 ## Räkna
 
-- Numbers1-100.txt: A txt file containing numbers to import. fields map to: Number, Swedish word, Pronounciation (dutch), Extra (empty), Tags
+### Numbers 1 - 100
+
+Youtube: [Lär dig räkna från 0 till 100. Learn how to count in Swedish.](https://www.youtube.com/watch?v=mlhjbelhswM)
+
+Resources in räkna folder:
+
+- Numbers1-100.txt: A txt file containing numbers to import into Anki. fields map to: Number, Swedish word, Pronounciation (dutch), Extra (empty), Tags
