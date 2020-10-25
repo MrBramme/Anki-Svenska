@@ -17,9 +17,24 @@ As a general rule of thumb, my Anki cards have the following fields:
 - Extra: any extra info that could be relevant (only shown on anwsers)
 - Tags
 
-## Räkna
+## Quizlet
 
-### Numbers 1 - 100
+This is similar to Anki, but with a more commercial coat around it :) [Check it out here](https://quizlet.com/)  
+If you're not a fan of this but are a fan of Anki, you can export sets from here, and import them into Anki!
+
+## Video
+
+[Youtube: Svenska för alla](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
+
+## Books
+
+Rivstart: [Get it here](https://www.nok.se/bocker-laromedel/laromedelsserier/rivstart/)
+
+## Themes
+
+### Räkna
+
+#### Numbers 1 - 100
 
 Youtube: [Lär dig räkna från 0 till 100. Learn how to count in Swedish.](https://www.youtube.com/watch?v=mlhjbelhswM)
 
