@@ -40,6 +40,20 @@ Rivstart: [Get it here](https://www.nok.se/bocker-laromedel/laromedelsserier/riv
 - [LearningSwedish.se](https://learningswedish.se/)  
 - [MySwedish.net](https://myswedish.net/)
 - [MyLanguage.org/Swedish](http://mylanguages.org/learn_swedish.php)
+- [SVT.se - news site](https://www.svt.se/)
+- [TheLocal.se](https://www.thelocal.se/)
+
+## Apps
+
+In no particular order:
+
+- DuoLingo
+- LearningSwedish
+- Drops
+- Memrise
+- HejSvenska1
+- HejSvenska2
+- HejSvenska3
 
 ## Themes
 
