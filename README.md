@@ -7,7 +7,7 @@ Some parts, like pronounciation, might be tied to Dutch rather than English. The
 ## Anki
 
 I use Anki to assist me to retain words I learn. I highly recommend this too to everyone!  
-[Get it here!](https://apps.ankiweb.net/  )
+[Get it here!](https://apps.ankiweb.net/)
 
 As a general rule of thumb, my Anki cards have the following fields:
 
@@ -24,7 +24,12 @@ If you're not a fan of this but are a fan of Anki, you can export sets from here
 
 ## Video
 
-[Youtube: Svenska för alla](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
+YouTube:
+
+- [Svenska för alla](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
+- [Ivana Eklund](https://www.youtube.com/c/IvanaEklund/videos)
+- [SFI Fidra Kahraman](https://www.youtube.com/channel/UCX-R0jHC0jEihsrQjJaMv-w/videos)
+- [Peter SFI](https://www.youtube.com/channel/UCXm1UDWRRND6SoLxTbbp87A/videos)
 
 ## Books
 
@@ -42,7 +47,10 @@ Rivstart: [Get it here](https://www.nok.se/bocker-laromedel/laromedelsserier/riv
 
 #### Numbers 1 - 100
 
-Youtube: [Lär dig räkna från 0 till 100. Learn how to count in Swedish.](https://www.youtube.com/watch?v=mlhjbelhswM)
+Youtube:
+
+- [Lär dig räkna från 0 till 100. Learn how to count in Swedish.](https://www.youtube.com/watch?v=mlhjbelhswM)
+- [Sfi A/B: Siffror 0 - 100](https://www.youtube.com/watch?v=uq4OSag2QFo)
 
 Resources in räkna folder:
 
