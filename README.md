@@ -30,6 +30,12 @@ If you're not a fan of this but are a fan of Anki, you can export sets from here
 
 Rivstart: [Get it here](https://www.nok.se/bocker-laromedel/laromedelsserier/rivstart/)
 
+## Sites
+
+- [LearningSwedish.se](https://learningswedish.se/)  
+- [MySwedish.net](https://myswedish.net/)
+- [MyLanguage.org/Swedish](http://mylanguages.org/learn_swedish.php)
+
 ## Themes
 
 ### Räkna
