@@ -42,6 +42,7 @@ Rivstart: [Get it here](https://www.nok.se/bocker-laromedel/laromedelsserier/riv
 - [MyLanguage.org/Swedish](http://mylanguages.org/learn_swedish.php)
 - [SVT.se - news site](https://www.svt.se/)
 - [TheLocal.se](https://www.thelocal.se/)
+- [Swedish-For-All](https://swedish-for-all.se/): Loads of resources
 
 ## Apps
 
