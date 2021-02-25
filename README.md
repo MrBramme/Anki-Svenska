@@ -43,6 +43,7 @@ Rivstart: [Get it here](https://www.nok.se/bocker-laromedel/laromedelsserier/riv
 - [SVT.se - news site](https://www.svt.se/)
 - [TheLocal.se](https://www.thelocal.se/)
 - [Swedish-For-All](https://swedish-for-all.se/): Loads of resources
+- [8Sidor](https://8sidor.se/): newssite with easy to comprehend articles and speach function
 
 ## Apps
 
